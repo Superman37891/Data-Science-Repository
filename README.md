@@ -2,7 +2,7 @@ AI / Machine Learning:
 
 * PostgreSQL Documentation AI Assistant: https://huggingface.co/spaces/Superman37891/PostgreSQL_Documentation_AI_Assistant
 
-FoodHub AI Support Agent: https://github.com/Superman37891/FoodHub-AI-Support-Agent/tree/main
+* FoodHub AI Support Agent: https://github.com/Superman37891/FoodHub-AI-Support-Agent/tree/main
 
 * HelmNet: https://github.com/Superman37891/HelmNet
 
